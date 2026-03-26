@@ -1,0 +1,68 @@
+{
+    "[c]": {
+        "editor.defaultFormatter": "zachflower.uncrustify"
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "zachflower.uncrustify"
+    },
+    "chat.viewSessions.orientation": "stacked",
+    "cmake.configureOnOpen": false,
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "cmake.showOptionsMovedNotification": false,
+    "cpplint.cpplintPath": "",
+    "cSpell.userWords": [
+        "plantuml",
+        "rclcpp",
+        "scminput",
+        "uncrustify",
+        "zachflower"
+    ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.fontFamily": "MS Gothic",
+    "editor.fontSize": 11,
+    "editor.fontWeight": "normal",
+    "editor.inlineSuggest.enabled": true,
+    "editor.mouseWheelZoom": true,
+    "editor.rulers": [
+        98
+    ],
+    "editor.unicodeHighlight.includeComments": true,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "git.openRepositoryInParentFolders": "never",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false,
+        "Log": true
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "gitlens.ai.enabled": false,
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "http.proxyAuthorization": null,
+    "mypy.debugLogging": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.defaultInterpreterPath": "c:\\Users\\r.takeuchi\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe",
+    "redhat.telemetry.enabled": false,
+    "security.allowedUNCHosts": [
+        "svc01",
+        "wsl.localhost"
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "settingsSync.ignoredExtensions": [],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#93d823",
+        "editor.lineHighlightBackground": "#313131"
+    },
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "workbench.startupEditor": "none",
+}
